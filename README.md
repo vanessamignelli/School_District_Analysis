@@ -10,8 +10,14 @@ The purpose of this assignment was to evaluate performance trends for various hi
 ### Impact on school summary
 - Originally Thomas high school’s math, reading and overall scores are evaluated to be much lower, once the ninth-grade averages are removed, these metrics significantly improve (see images below)
 
+![score_before_adjustment](https://github.com/vanessamignelli/School_District_Analysis/blob/main/pictures/score_before_adjustment.png)
+
+![scores_adjusted](https://github.com/vanessamignelli/School_District_Analysis/blob/main/pictures/scores_adjusted.png)
+
 ### Impact on Thomas High School’s performance relative to the other schools
--	Once removing the ninth-grade test scores, Thomas High School performs significantly better, appearing in the top 5 schools, whereas previously it would’ve performed closer to the bottom 5 (see images below)
+-	Once removing the ninth-grade test scores, Thomas High School performs significantly better, appearing in the top 5 schools, whereas previously it would’ve performed closer to the bottom 5 (see image below)
+
+![schools_top_5](https://github.com/vanessamignelli/School_District_Analysis/blob/main/pictures/schools_top_5.png)
 
 ### Impact on math and reading scores by grade
 - No impact on scores from grades 10-12, but would impact the overall ninth-grade average with only 14 school’s scores being considered as opposed to 15
